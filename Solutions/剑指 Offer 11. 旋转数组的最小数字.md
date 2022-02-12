@@ -20,7 +20,7 @@ public:
         return nums[l];
     }
 };
-//时间复杂度O(logn)
+//时间复杂度O(logn),最坏情况下是O(n)
 //空间复杂度O(1)
 ```
 
