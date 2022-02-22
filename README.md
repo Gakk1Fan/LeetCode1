@@ -20,6 +20,7 @@
 |24|[反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/%E5%89%91%E6%8C%87%20Offer%2024.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)|简单|
 |30|[包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/%E5%89%91%E6%8C%87%20Offer%2030.%20%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md)|简单|
 |35|[复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/%E5%89%91%E6%8C%87%20Offer%2035.%20%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6.md)|中等|
+|50|[第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/剑指%20Offer%2050.%20第一个只出现一次的字符.md)|简单|
 |53-I|[在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/剑指%20Offer%2053%20-%20I.%20在排序数组中查找数字%20I.md)|简单|
 |53-II|[0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/剑指%20Offer%2053%20-%20II.%200～n-1中缺失的数字.md)|简单|
-|58-II|[左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/剑指%20Offer%2058%20-%20II.%20左旋转字符串.md)|中等|
+|58-II|[左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/剑指%20Offer%2058%20-%20II.%20左旋转字符串.md)|简单|
