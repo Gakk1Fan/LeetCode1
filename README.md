@@ -20,6 +20,7 @@
 |24|[反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/%E5%89%91%E6%8C%87%20Offer%2024.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)|简单|
 |26|[树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/剑指%20Offer%2026.%20树的子结构.md)|中等|
 |27|[二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/剑指%20Offer%2027.%20二叉树的镜像.md)|简单|
+|28|[对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/剑指%20Offer%2028.%20对称的二叉树.md)|简单|
 |30|[包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/%E5%89%91%E6%8C%87%20Offer%2030.%20%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md)|简单|
 |32-I|[从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/%E5%89%91%E6%8C%87%20Offer%2032%20-%20I.%20%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)|中等|
 |32-II|[从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/%E5%89%91%E6%8C%87%20Offer%2032%20-%20II.%20%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91%20II.md)|简单|
