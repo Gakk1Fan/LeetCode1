@@ -27,6 +27,7 @@
 |32-III|[从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/%E5%89%91%E6%8C%87%20Offer%2032%20-%20III.%20%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91%20III.md)|中等|
 |35|[复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/%E5%89%91%E6%8C%87%20Offer%2035.%20%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6.md)|中等|
 |42|[连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/剑指%20Offer%2042.%20连续子数组的最大和.md)|简单|
+|47|[礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/剑指%20Offer%2047.%20礼物的最大价值.md)|中等|
 |50|[第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/剑指%20Offer%2050.%20第一个只出现一次的字符.md)|简单|
 |53-I|[在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/剑指%20Offer%2053%20-%20I.%20在排序数组中查找数字%20I.md)|简单|
 |53-II|[0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)|[C++](https://github.com/Gakk1Fan/LeetCode/blob/main/Solutions/剑指%20Offer%2053%20-%20II.%200～n-1中缺失的数字.md)|简单|
